@@ -1,0 +1,14 @@
+
+Package: paralleltest
+Type: Package
+Title: Parallel test
+Version: 0.1.0
+Author: Ma Yilei [aut,cre],
+        Tian Yuchen [aut],
+        Yin Ping [aut,ctb]
+Maintainer: Yin Ping <ping_y2000@163.com>
+Description: This package assesses group differences using parallel test.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
